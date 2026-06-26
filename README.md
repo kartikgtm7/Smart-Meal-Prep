@@ -168,10 +168,10 @@ graph TD
 We include the following visual assets for our submission:
 
 ### 1. Workflow Architecture Diagram
-![Workflow Diagram](assets/architecture_diagram.png)
+![Workflow Diagram](smart-meal-prep/assets/architecture_diagram.png)
 
 ### 2. Cover Banner
-![Cover Banner](assets/cover_page_banner.png)
+![Cover Banner](smart-prep-meal/assets/cover_page_banner.png)
 
 ## Demo Script
 
