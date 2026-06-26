@@ -171,7 +171,7 @@ We include the following visual assets for our submission:
 ![Workflow Diagram](smart-meal-prep/assets/architecture_diagram.png)
 
 ### 2. Cover Banner
-![Cover Banner](smart-prep-meal/assets/cover_page_banner.png)
+![Cover Banner](smart-meal-prep/assets/cover_page_banner.png)
 
 ## Demo Script
 
